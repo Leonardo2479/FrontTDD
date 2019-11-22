@@ -1,0 +1,43 @@
+body{
+margin: 0 ;
+background-color: silver;
+}
+
+#caixaum {
+    width: 100%;
+    height: 15px;
+}
+
+#caixadois{
+    width: 100px;
+    height: 15px;
+}
+
+#navbar{
+    width: 100%;
+    height: 50px;
+    background-color: silver;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0;
+    height: 100%;
+}
+
+li{
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+header img{
+    width: 100%;
+    height: 510px;
+}
+
+#cabecalho{
+    display: flex;
+}
